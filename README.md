@@ -2,7 +2,7 @@
 
 Étudiant en cybersécurité à l' X/EPITA. Objectif: Purple Team
 
-[Email](mailto:abid.adam@outlook.fr) · [LinkedIn](#https://www.linkedin.com/in/ab-adam)
+[Email](mailto:abid.adam@outlook.fr) · [LinkedIn](https://www.linkedin.com/in/ab-adam)
 
 ## Certifications
 
