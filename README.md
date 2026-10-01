@@ -12,3 +12,5 @@ eJPT · CRTA · HTB CDSA (en cours)
 
 **Lab Active Directory + SIEM**
 Attaque et détection sur un domaine AD, sous KVM/libvirt. À venir.
+**Notes CDSA**
+Notes de préparation à la certification HTB CDSA
