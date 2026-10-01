@@ -1,16 +1,14 @@
-## Hi there 👋
+# XSubn3t
 
-<!--
-**xsubn3t/xsubn3t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Étudiant en cybersécurité à l' X/EPITA. Objectif: Purple Team
 
-Here are some ideas to get you started:
+[Email](mailto:abid.adam@outlook.fr) · [LinkedIn](#https://www.linkedin.com/in/ab-adam)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Certifications
+
+eJPT · CRTA · HTB CDSA (en cours)
+
+## Projets
+
+**Lab Active Directory + SIEM**
+Attaque et détection sur un domaine AD, sous KVM/libvirt. À venir.
